@@ -11,6 +11,7 @@ header {
 h1 {
   font-size: 70px;
   color: white;
+  letter-spacing: 2px;
 }
 
 nav a {
@@ -21,6 +22,7 @@ nav a {
 li {
   list-style: none;
   text-decoration: underline;
+  padding-bottom: 12px;
 }
 
 /*Sectione one*/
@@ -34,5 +36,27 @@ h3 {
 }
 
 p {
+  font-size: 14px;
+}
+
+/*Header img*/
+
+.header-img {
+  color: white;
+  background-image: url("../imgs/building.png");
+}
+
+
+/*Footer Section*/
+
+footer p {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+footer a {
+  color: white;
   font-size: 14px;
 }
