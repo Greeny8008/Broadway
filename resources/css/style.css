@@ -1,0 +1,23 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+header {
+  background-image: url("../imgs/building.png");
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+nav a {
+  font-size: 18px;
+  color: white;
+}
+
+li {
+  list-style: none;
+  text-decoration: underline;
+}
