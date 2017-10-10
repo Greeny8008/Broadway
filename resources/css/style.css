@@ -2,6 +2,7 @@ html {
   text-align: center;
   font-family: Helvetica;
 }
+/*Title and nav bar*/
 
 header {
   background-image: url("../imgs/building.png");
@@ -20,4 +21,18 @@ nav a {
 li {
   list-style: none;
   text-decoration: underline;
+}
+
+/*Sectione one*/
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
 }
